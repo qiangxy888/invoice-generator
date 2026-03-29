@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://invoice-generator.vercel.app/sitemap.xml
