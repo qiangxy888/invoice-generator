@@ -538,4 +538,236 @@ export const blogPosts: BlogPost[] = [
 <p>For more help choosing the right invoicing tool, check out our <a href="/blog/best-free-invoice-generators-2026">comparison of the best free invoice generators in 2026</a>.</p>
 `,
   },
+  {
+    slug: 'how-to-write-payment-terms-invoice',
+    title: 'How to Write Payment Terms on an Invoice (With Examples)',
+    description: 'Learn the most effective invoice payment terms, from Net 30 to due on receipt, with examples and templates.',
+    date: '2026-03-20',
+    readTime: '7 min read',
+    keywords: ['invoice payment terms', 'net 30 invoice', 'payment terms examples', 'invoice due date'],
+    content: `
+<p><strong>Payment terms are the single most important line on your invoice.</strong> They tell your client exactly when and how to pay — and the right terms can reduce your average payment time by 2-3 weeks.</p>
+
+<h2>Common Payment Terms Explained</h2>
+<table><thead><tr><th>Term</th><th>Meaning</th><th>Best For</th></tr></thead>
+<tbody>
+<tr><td><strong>Due on Receipt</strong></td><td>Payment due immediately</td><td>Small projects, new clients</td></tr>
+<tr><td><strong>Net 15</strong></td><td>Due within 15 days</td><td>Ongoing freelance work</td></tr>
+<tr><td><strong>Net 30</strong></td><td>Due within 30 days</td><td>B2B, established relationships</td></tr>
+<tr><td><strong>Net 60</strong></td><td>Due within 60 days</td><td>Enterprise clients, large contracts</td></tr>
+<tr><td><strong>2/10 Net 30</strong></td><td>2% discount if paid in 10 days, otherwise due in 30</td><td>Encouraging early payment</td></tr>
+<tr><td><strong>50% Upfront</strong></td><td>Half before work, half on delivery</td><td>Large projects, new clients</td></tr>
+</tbody></table>
+
+<h2>Which Payment Terms Should You Use?</h2>
+<p><strong>Freelancers:</strong> Start with Net 15 or Due on Receipt. You're a small business — you need cash flow. Net 30 is too generous unless the client requires it.</p>
+<p><strong>Agencies:</strong> Net 30 is standard for B2B. Offer 2/10 Net 30 to incentivize early payment.</p>
+<p><strong>New clients:</strong> Always start with shorter terms (Net 15 or 50% upfront). You can extend to Net 30 after 3+ successful payments.</p>
+
+<h2>How to Write Payment Terms (Examples)</h2>
+<p>Here are copy-paste examples for your invoices:</p>
+<ul>
+<li><strong>Simple:</strong> "Payment due within 15 days of invoice date."</li>
+<li><strong>With late fee:</strong> "Net 30. A late fee of 1.5% per month applies to overdue balances."</li>
+<li><strong>With discount:</strong> "2% discount if paid within 10 days. Otherwise, Net 30."</li>
+<li><strong>Milestone:</strong> "50% due upon project start. Remaining 50% due upon delivery."</li>
+</ul>
+
+<h2>Tips for Getting Paid Faster</h2>
+<ol>
+<li><strong>Put terms in bold</strong> — Don't bury them in fine print</li>
+<li><strong>Include multiple payment methods</strong> — Bank transfer, PayPal, Stripe</li>
+<li><strong>Send invoices immediately</strong> — Don't wait until end of month</li>
+<li><strong>Follow up on day 1 past due</strong> — A polite reminder works wonders</li>
+</ol>
+
+<p>Use <a href="/invoice-generator">InvoiceFly's free invoice generator</a> to create professional invoices with clear payment terms in seconds.</p>
+`,
+  },
+  {
+    slug: 'freelance-invoice-guide',
+    title: 'The Complete Freelance Invoice Guide: What to Include',
+    description: 'Everything freelancers need to know about creating professional invoices that get paid on time.',
+    date: '2026-03-18',
+    readTime: '9 min read',
+    keywords: ['freelance invoice', 'how to invoice as freelancer', 'freelance billing', 'invoice for freelancers'],
+    content: `
+<p><strong>Your invoice is a reflection of your professionalism.</strong> A sloppy invoice signals sloppy work. A clear, professional invoice signals a business worth paying promptly.</p>
+
+<h2>Essential Elements of a Freelance Invoice</h2>
+<p>Every freelance invoice must include:</p>
+<ol>
+<li><strong>Your business name & contact info</strong> — Name, address, email, phone</li>
+<li><strong>Client's business name & contact info</strong></li>
+<li><strong>Invoice number</strong> — Sequential (INV-001, INV-002) for easy tracking</li>
+<li><strong>Invoice date</strong> — The day you send it</li>
+<li><strong>Due date</strong> — When payment is expected</li>
+<li><strong>Line items</strong> — Description, quantity/hours, rate, amount</li>
+<li><strong>Total amount due</strong> — Including tax if applicable</li>
+<li><strong>Payment methods</strong> — How to pay you</li>
+<li><strong>Payment terms</strong> — Late fees, early payment discounts</li>
+</ol>
+
+<h2>Common Freelance Invoice Mistakes</h2>
+<ul>
+<li><strong>No invoice number</strong> — Makes it impossible to track or reference</li>
+<li><strong>Vague descriptions</strong> — "Design work" vs. "Homepage redesign — 3 rounds of revisions (12 hours)"</li>
+<li><strong>Missing due date</strong> — If you don't specify, clients will pay whenever</li>
+<li><strong>Wrong tax calculation</strong> — Check local requirements (VAT, GST, sales tax)</li>
+</ul>
+
+<h2>Hourly vs. Project-Based Invoicing</h2>
+<table><thead><tr><th>Method</th><th>Pros</th><th>Cons</th></tr></thead>
+<tbody>
+<tr><td><strong>Hourly</strong></td><td>Fair for unpredictable scope</td><td>Clients worry about total cost</td></tr>
+<tr><td><strong>Project-based</strong></td><td>Client knows total upfront</td><td>Risk of scope creep</td></tr>
+<tr><td><strong>Retainer</strong></td><td>Predictable income</td><td>Requires trust & history</td></tr>
+</tbody></table>
+
+<h2>When to Send Your Invoice</h2>
+<p><strong>Immediately upon completion.</strong> Every day you delay sending the invoice is a day added to your payment wait time. For ongoing work, invoice weekly or bi-weekly — don't let balances accumulate.</p>
+
+<p>Create your first professional freelance invoice in 60 seconds with <a href="/invoice-generator">InvoiceFly</a> — free, no signup required.</p>
+`,
+  },
+  {
+    slug: 'invoice-numbering-system',
+    title: 'Invoice Numbering Systems: Best Practices for 2026',
+    description: 'How to set up a professional invoice numbering system. Sequential, date-based, and project-based methods compared.',
+    date: '2026-03-16',
+    readTime: '6 min read',
+    keywords: ['invoice numbering', 'invoice number format', 'how to number invoices', 'invoice numbering system'],
+    content: `
+<p><strong>A good invoice numbering system seems trivial until you need to find invoice #247 from last October</strong> — and your "system" is a mix of random numbers and client initials.</p>
+
+<h2>Why Invoice Numbers Matter</h2>
+<ul>
+<li><strong>Legal compliance</strong> — Most countries require sequential invoice numbers for tax purposes</li>
+<li><strong>Easy reference</strong> — "Can you check invoice INV-2026-0423?" is much easier than "that invoice from April"</li>
+<li><strong>Accounting</strong> — Your bookkeeper and accountant need a clear trail</li>
+<li><strong>Professionalism</strong> — Sequential numbers signal an organized business</li>
+</ul>
+
+<h2>4 Invoice Numbering Methods</h2>
+
+<h3>1. Simple Sequential (INV-001, INV-002...)</h3>
+<p>The simplest approach. Start at 001 and increment. Works perfectly for small businesses with low invoice volume.</p>
+<p><strong>Tip:</strong> Don't start at 001 if you're new — starting at INV-1001 makes your business look more established.</p>
+
+<h3>2. Date-Based (2026-03-001)</h3>
+<p>Format: YYYY-MM-NNN. Groups invoices by month, making it easy to find invoices from a specific period. Reset the counter each month.</p>
+<p><strong>Best for:</strong> Businesses with high invoice volume (10+ per month).</p>
+
+<h3>3. Client-Prefix (ACME-001, GOOG-002)</h3>
+<p>Add a client code prefix. Useful when you have a few large clients and want to quickly see all invoices for each one.</p>
+
+<h3>4. Project-Based (PROJ-WEB-001)</h3>
+<p>Include project codes. Best for agencies managing multiple projects per client.</p>
+
+<h2>Rules to Follow</h2>
+<ol>
+<li><strong>Never reuse a number</strong> — Even if an invoice is cancelled, void it don't reassign</li>
+<li><strong>Always increment</strong> — Numbers must go up, never down (tax authorities check this)</li>
+<li><strong>Be consistent</strong> — Pick a system and stick with it</li>
+<li><strong>Start from a non-zero number</strong> — INV-1001 looks more professional than INV-001</li>
+</ol>
+
+<p><a href="/invoice-generator">InvoiceFly</a> automatically generates sequential invoice numbers for you — one less thing to think about.</p>
+`,
+  },
+  {
+    slug: 'small-business-invoicing-tips',
+    title: '8 Invoicing Tips Every Small Business Owner Should Know',
+    description: 'Practical invoicing tips for small businesses to get paid faster and maintain healthy cash flow.',
+    date: '2026-03-12',
+    readTime: '7 min read',
+    keywords: ['small business invoicing', 'invoicing tips', 'get paid faster', 'small business cash flow'],
+    content: `
+<p><strong>Cash flow kills more small businesses than competition.</strong> And the #1 cash flow problem? Late payments. These 8 invoicing tips will help you get paid faster.</p>
+
+<h2>1. Invoice Immediately</h2>
+<p>Don't wait until the end of the month. Send the invoice the day you complete the work. Studies show invoices sent within 24 hours of project completion get paid 1.5x faster.</p>
+
+<h2>2. Make Payment Stupidly Easy</h2>
+<p>Include multiple payment options: bank transfer, credit card (Stripe), PayPal, even Venmo for smaller amounts. The fewer obstacles between your client and the "Pay" button, the faster you get paid.</p>
+
+<h2>3. Use Professional Invoice Templates</h2>
+<p>A well-designed invoice with your logo, clear line items, and organized layout gets taken seriously. A messy email asking for money does not.</p>
+
+<h2>4. Always Include a Due Date</h2>
+<p>"Please pay at your convenience" means "pay never." Be specific: "Payment due by April 15, 2026."</p>
+
+<h2>5. Offer Early Payment Discounts</h2>
+<p>2% off for payment within 10 days (2/10 Net 30) costs you a tiny margin but dramatically improves cash flow. Many businesses will take the discount.</p>
+
+<h2>6. Follow Up Systematically</h2>
+<p>Set calendar reminders:</p>
+<ul>
+<li><strong>Day of:</strong> Send the invoice</li>
+<li><strong>Day 7:</strong> Friendly reminder if Net 15</li>
+<li><strong>Due date:</strong> "Just a reminder, payment due today"</li>
+<li><strong>Day 1 overdue:</strong> Firm but polite follow-up</li>
+<li><strong>Day 14 overdue:</strong> Phone call</li>
+</ul>
+
+<h2>7. Charge Late Fees (And State Them Upfront)</h2>
+<p>Include in your payment terms: "A late fee of 1.5% per month applies to overdue balances." Most clients will pay on time to avoid the fee. The fee itself pays for the inconvenience when they don't.</p>
+
+<h2>8. Track Everything</h2>
+<p>Know at a glance: How many invoices are outstanding? What's the total overdue amount? What's your average payment time? This data helps you spot problem clients early.</p>
+
+<p>Start with <a href="/invoice-generator">InvoiceFly's free invoice generator</a> — professional templates, automatic calculations, and PDF export. No signup required.</p>
+`,
+  },
+  {
+    slug: 'how-to-handle-late-payments',
+    title: 'How to Handle Late Invoice Payments: A Step-by-Step Guide',
+    description: 'What to do when clients don\'t pay on time. Polite follow-up templates and escalation strategies.',
+    date: '2026-03-10',
+    readTime: '8 min read',
+    keywords: ['late invoice payment', 'overdue invoice', 'payment reminder', 'how to collect late payments'],
+    content: `
+<p><strong>60% of freelancers have experienced late payments.</strong> It's not a question of if — it's when. Having a clear process for handling overdue invoices protects your cash flow and your client relationships.</p>
+
+<h2>The Payment Follow-Up Timeline</h2>
+<table><thead><tr><th>Day</th><th>Action</th><th>Tone</th></tr></thead>
+<tbody>
+<tr><td>Due date</td><td>Friendly reminder email</td><td>Casual, helpful</td></tr>
+<tr><td>+7 days</td><td>Second reminder with invoice attached</td><td>Professional, firmer</td></tr>
+<tr><td>+14 days</td><td>Phone call or direct message</td><td>Concerned, direct</td></tr>
+<tr><td>+30 days</td><td>Final notice with late fee</td><td>Formal</td></tr>
+<tr><td>+45 days</td><td>Pause work / escalate</td><td>Business decision</td></tr>
+</tbody></table>
+
+<h2>Email Templates</h2>
+
+<h3>Friendly Reminder (Due Date)</h3>
+<p><em>"Hi [Name], Just a quick reminder that invoice #[NUMBER] for $[AMOUNT] is due today. I've attached it again for your convenience. Let me know if you have any questions! — [Your Name]"</em></p>
+
+<h3>Second Reminder (+7 Days)</h3>
+<p><em>"Hi [Name], Following up on invoice #[NUMBER] for $[AMOUNT], which was due on [DATE]. Could you let me know the status of this payment? If there's an issue, I'm happy to discuss. — [Your Name]"</em></p>
+
+<h3>Final Notice (+30 Days)</h3>
+<p><em>"Hi [Name], Invoice #[NUMBER] for $[AMOUNT] is now 30 days overdue. Per our agreement, a late fee of [X]% has been applied. Please arrange payment within 7 days. If there are circumstances I should know about, please reach out. — [Your Name]"</em></p>
+
+<h2>Prevention Is Better Than Collection</h2>
+<ul>
+<li><strong>Vet clients</strong> — Check reviews, ask for references before large projects</li>
+<li><strong>Use deposits</strong> — 50% upfront for new clients and large projects</li>
+<li><strong>Clear contracts</strong> — Written payment terms, late fee clauses, kill fee clauses</li>
+<li><strong>Invoice promptly</strong> — Don't give clients time to forget</li>
+</ul>
+
+<h2>When to Walk Away</h2>
+<p>If a client is 60+ days overdue and unresponsive, consider:</p>
+<ol>
+<li><strong>Final formal demand</strong> with a 7-day deadline</li>
+<li><strong>Small claims court</strong> for amounts worth pursuing</li>
+<li><strong>Collections agency</strong> (they take 25-50% but it's better than 0%)</li>
+<li><strong>Write it off</strong> and blacklist the client</li>
+</ol>
+
+<p>Prevent late payments by sending clear, professional invoices from day one. <a href="/invoice-generator">Try InvoiceFly</a> — it's free.</p>
+`,
+  },
 ];
